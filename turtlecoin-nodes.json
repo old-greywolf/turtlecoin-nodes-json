@@ -61,6 +61,12 @@
       "ssl": false
     },
     {
+      "name": "greywolf Germany",
+      "url": "turtlenode.co",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "PUBLIC",
       "url": "public.turtlenode.io",
       "port": 11898,
